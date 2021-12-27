@@ -1,0 +1,17 @@
+/* @media only screen and (max-width: 600) {
+    body {
+        background-color: blue;
+    }
+    .list-left {
+        padding: 0;
+        background-color: blue;
+    }
+} */
+
+
+@media (max-width: 600px) {
+    .list-left {
+        padding: 3px;
+        list-style: none;
+    }
+  }
